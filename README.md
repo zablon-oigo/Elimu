@@ -1,4 +1,4 @@
-# Elimu
+# Elimu 🚀
 Elimu is your gateway to a world of limitless learning possibilities. Whether youre a beginner or an expert, our platform has something for everyone. With a wide range of courses, tutorials, and educational resources, youll find exactly what you need.
 ## Demo
 [elimu](https://peppy-cheesecake-fbef6c.netlify.app/)
