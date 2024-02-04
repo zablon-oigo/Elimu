@@ -11,7 +11,7 @@ export default function Footer() {
                     <div className="w-full md:w-2/5 mb-3">
                         <h2 className="text-2xl mb-4">Elimu</h2>
                         <p className="text-lg font-light">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora, ab accusamus! Voluptatibus hic rem quas maiores similique ipsa expedita repellat? Libero, neque perspiciatis facilis ullam accusamus ipsam aspernatur autem possimus.
+                        Founded in 2021, Elimu is a leading tech education platform committed to empowering learners worldwide. Our comprehensive range of courses covers web development, iOS, Android, and more. We take pride in delivering high-quality education to both beginners and experts.
                         </p>
                     </div>
                         <div className="w-full md:w-1/5 mb-3">
