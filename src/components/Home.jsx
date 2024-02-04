@@ -9,7 +9,7 @@ export default function Home() {
                  <h2 className="mb-4 md:text-5xl  text-3xl leading-tight text-center md:text-start">Knowledge with <span className="text-teal-500">Elimu</span></h2>
         
         <p className="text-lg font-light mb-4">
-            Study is your gateway to a world of limitless learning possibilities.
+            Elimu is your gateway to a world of limitless learning possibilities.
             Whether youre a beginner or an expert, our platform has something for everyone.
             With a wide range of courses, tutorials, and educational resources, youll find exactly what you need.
         </p>
